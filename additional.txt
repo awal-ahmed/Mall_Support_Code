@@ -1,0 +1,21 @@
+Base idea is from Toolformer, implement this for restaurant support 
+
+Toolformer:
+    Paper: https://arxiv.org/pdf/2302.04761
+
+
+Code structure:
+1. baseCode.py: code provided by Toolformer
+
+
+Environment: mall_support
+
+
+Example Question:
+1. Where can I find this
+2. What is the current price of this
+3. Is it harmful for body
+4. What related products should I take?
+5. Do you have similar product?
+6. Does it have any worrenty?
+7. What nutrition does it contains?
